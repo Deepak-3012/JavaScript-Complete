@@ -1,3 +1,5 @@
+// JavaScript --> single threaded, multi purpose , multi pardigm scripting lang
+
 let first_name = "deepak";
 console.log(first_name);
 // var--> dont use it... it has some scoping issues
